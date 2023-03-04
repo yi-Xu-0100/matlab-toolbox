@@ -1,0 +1,6 @@
+{
+"conventionalCommits.emojiFormat": "emoji",
+"conventionalCommits.autoCommit": false,
+"conventionalCommits.editor.keepAfterSave": false,
+"conventionalCommits.lineBreak": "\\n"
+}
