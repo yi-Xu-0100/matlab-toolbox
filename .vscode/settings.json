@@ -2,5 +2,12 @@
 "conventionalCommits.emojiFormat": "emoji",
 "conventionalCommits.autoCommit": false,
 "conventionalCommits.editor.keepAfterSave": false,
-"conventionalCommits.lineBreak": "\\n"
+"conventionalCommits.lineBreak": "\\n",
+"cSpell.enableFiletypes": [
+  "matlab"
+],
+"cSpell.words": [
+  "Jiushao",
+  "laguerre"
+]
 }
