@@ -7,7 +7,12 @@
   "matlab"
 ],
 "cSpell.words": [
+  "Gouy",
   "Jiushao",
-  "laguerre"
+  "laguerre",
+  "LGBEAM"
+],
+"conventionalCommits.scopes": [
+    "mlx"
 ]
 }
