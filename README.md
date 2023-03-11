@@ -1,3 +1,3 @@
 # matlab-toolbox
 
-Some matlab self-build functions.
+Some self-built functions for Matlab
