@@ -14,6 +14,8 @@
     "paraxial"
 ],
 "conventionalCommits.scopes": [
-    "mlx"
+    "mlx",
+    "optics",
+    "vscode"
 ]
 }
