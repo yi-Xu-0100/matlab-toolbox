@@ -7,15 +7,22 @@
   "matlab"
 ],
 "cSpell.words": [
-    "Gouy",
-    "Jiushao",
-    "laguerre",
-    "LGBEAM",
-    "paraxial"
+  "GETMONITORINFO",
+  "Gouy",
+  "isempty",
+  "Jiushao",
+  "laguerre",
+  "LGBEAM",
+  "nargin",
+  "nargout",
+  "paraxial",
+  "varargin",
+  "varargout"
 ],
 "conventionalCommits.scopes": [
-    "mlx",
-    "optics",
-    "vscode"
+  "mlx",
+  "optics",
+  "vscode",
+  "common"
 ]
 }
